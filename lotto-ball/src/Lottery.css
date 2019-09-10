@@ -1,0 +1,25 @@
+.Lottery{
+    background-color: #EEEEEE;
+    display: inline-flex;
+    flex-flow: column nowrap;
+    border: #9E9E9E 2px solid;
+    border-radius: 10px;
+    width: 80%;
+    margin: 1em 0;
+    padding: 1em 0 1.5em 0;
+}
+.LotteryBalls{
+    padding: 1em 0;
+    margin-bottom: .5em;
+}
+.LotteryButton{
+    background-color: #0d47a1;
+    color: #fff;
+    border: none;
+    padding: .4em 1rem;
+    font-size: 1em;
+    font-weight: 500;
+    border-radius: 6px;
+    align-self: center;
+    
+}
